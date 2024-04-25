@@ -17,4 +17,4 @@ This visualization was made just for fun and exploration.
 
 # Vis
 
-[](mys_politics_shift.jpg)
+[See here ](https://github.com/abdullahzubairwan/vis/blob/main/3_flow_of_mys_politics/mys_politics_shift.jpg)
