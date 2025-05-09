@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml creator="plotaroute.com http://www.plotaroute.com" xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>KLSCM 2023 Route Map - HM</name>
+<open>1</open>
+<Style id="StartIconStyle">
+<IconStyle id="StartIcon">
+<Icon><href>https://www.plotaroute.com/images/icons/starticon.png</href></Icon>
+</IconStyle>
+<LabelStyle><scale>0.7</scale></LabelStyle>
+</Style>
+<Style id="FinishIconStyle">
+<IconStyle id="FinishIcon">
+<Icon><href>https://www.plotaroute.com/images/icons/finishicon.png</href></Icon>
+</IconStyle>
+<LabelStyle><scale>0.7</scale></LabelStyle>
+</Style>
+<Style id="RoutePath">
+<LineStyle>
+<color>E52975F3</color>
+<width>4</width>
+</LineStyle>
+</Style>
+<Style id="WaypointIconStyle">
+<IconStyle id="WaypointIcon">
+<Icon><href>https://www.plotaroute.com/images/icons/waypointicon.png</href></Icon>
+<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+</IconStyle>
+<LabelStyle><scale>0.7</scale></LabelStyle>
+</Style>
+<Style id="DistMarkerStyle">
+<IconStyle id="DistMarkerIcon">
+<Icon><href>https://www.plotaroute.com/images/icons/mileicon.png</href></Icon>
+<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+</IconStyle>
+<LabelStyle><scale>0.7</scale></LabelStyle>
+</Style>
+<LookAt>
+<longitude>101.694130</longitude>
+<latitude>3.148457</latitude>
+<range>400</range>
+<tilt>60</tilt>
+<altitudeMode>clampToGround</altitudeMode>
+</LookAt>
+<Folder id="Route2058403">
+<name><![CDATA[KLSCM 2023 Route Map - HM]]> </name><description><![CDATA[]]></description><Placemark>
+<name><![CDATA[Fly-Over Tour]]></name>
+<description><![CDATA[]]></description>
+<styleUrl>#RoutePath</styleUrl>
+<LineString id="Route">
+<extrude>0</extrude>
+<tessellate>1</tessellate>
+<coordinates>
+101.69413,3.148457,34
+101.69413,3.148457,34
+101.694351,3.149538,32
+101.694417,3.14981,31
+101.694656,3.151013,37
+101.69468,3.151189,40
+101.6947,3.15205,45
+101.694709,3.152982,47
+101.694643,3.156698,39
+101.694676,3.156785,40
+101.694593,3.157591,48
+101.694577,3.158533,46
+101.694586,3.158642,45
+101.694762,3.159284,42
+101.695012,3.159896,39
+101.695012,3.159896,39
+101.69523,3.160464,46
+101.695412,3.160984,59
+101.6955,3.161353,65
+101.695987,3.163349,48
+101.696155,3.164415,38
+101.696294,3.165746,46
+101.696416,3.1678,38
+101.696445,3.168222,36
+101.696516,3.168487,32
+101.696556,3.16858,30
+101.696607,3.16864,29
+101.696767,3.168733,27
+101.697134,3.168321,36
+101.697601,3.167882,39
+101.697804,3.167696,39
+101.698093,3.167544,38
+101.698354,3.167438,37
+101.698449,3.167407,38
+101.698582,3.167381,39
+101.698794,3.167367,39
+101.699063,3.167426,40
+101.70052,3.16797,39
+101.700705,3.168005,39
+101.701641,3.167976,41
+101.701641,3.167976,41
+101.7021,3.167962,41
+101.702802,3.167978,40
+101.702953,3.167934,39
+101.702932,3.166982,39
+101.702951,3.165481,33
+101.702938,3.164041,36
+101.702938,3.164041,36
+101.702915,3.163498,39
+101.702925,3.162475,35
+101.702718,3.161832,38
+101.702546,3.161379,40
+101.701852,3.159268,38
+101.701841,3.15909,37
+101.701723,3.158686,35
+101.700874,3.158943,49
+101.700473,3.159032,52
+101.700473,3.159032,52
+101.700101,3.159095,52
+101.698236,3.159265,39
+101.698043,3.159304,40
+101.6978,3.159385,42
+101.69737,3.159558,45
+101.697212,3.159637,44
+101.697092,3.159666,44
+101.696942,3.15964,44
+101.696697,3.159512,45
+101.696421,3.158891,53
+101.696421,3.158891,53
+101.695931,3.157786,47
+101.695889,3.157653,46
+101.695867,3.15752,44
+101.695885,3.157107,44
+101.695885,3.157107,44
+101.695931,3.156802,45
+101.696676,3.156925,43
+101.69693,3.156898,42
+101.697414,3.156825,40
+101.697744,3.156737,37
+101.698025,3.156684,35
+101.698039,3.156665,35
+101.698788,3.156531,35
+101.699461,3.156365,36
+101.699461,3.156365,36
+101.699818,3.156225,35
+101.701346,3.155381,43
+101.70155,3.155328,47
+101.701584,3.155324,48
+101.701638,3.155344,48
+101.701764,3.155456,48
+101.702024,3.155762,44
+101.702294,3.156012,42
+101.702354,3.156069,41
+101.702636,3.156266,39
+101.702817,3.156356,40
+101.703115,3.156435,44
+101.703115,3.156435,44
+101.70383,3.156596,41
+101.703932,3.156601,41
+101.704468,3.156571,42
+101.704468,3.156571,42
+101.704581,3.15657,42
+101.704901,3.155853,50
+101.704901,3.155853,50
+101.705069,3.155534,54
+101.705167,3.155404,58
+101.705335,3.155234,66
+101.705466,3.155134,73
+101.705601,3.155054,80
+101.705773,3.154985,88
+101.706443,3.15478,94
+101.706441,3.154775,94
+101.706441,3.154775,94
+101.706443,3.15478,94
+101.706724,3.154632,91
+101.706857,3.154541,87
+101.707175,3.154246,86
+101.707505,3.15386,87
+101.707922,3.153514,76
+101.708206,3.153307,71
+101.708387,3.153209,69
+101.708999,3.152954,69
+101.709229,3.152789,68
+101.709675,3.152305,69
+101.709904,3.15197,76
+101.710204,3.151385,92
+101.71043,3.150622,81
+101.710525,3.150347,72
+101.710589,3.150219,69
+101.710862,3.149777,63
+101.710993,3.149518,59
+101.711016,3.149424,57
+101.711026,3.149162,53
+101.710906,3.14839,77
+101.710895,3.148082,73
+101.710908,3.147884,69
+101.711011,3.147413,60
+101.711168,3.146829,61
+101.711168,3.146829,61
+101.711201,3.146716,61
+101.711201,3.146716,61
+101.711208,3.146693,61
+101.711244,3.146691,61
+101.711407,3.146812,62
+101.711407,3.146812,62
+101.712255,3.147502,64
+101.712865,3.147985,60
+101.712934,3.148025,60
+101.714257,3.148164,57
+101.715268,3.148226,44
+101.715387,3.148287,44
+101.715387,3.148287,44
+101.715475,3.148367,44
+101.715505,3.148443,44
+101.715491,3.148525,44
+101.715382,3.148665,44
+101.715092,3.148886,44
+101.714326,3.149386,45
+101.714326,3.149386,45
+101.714124,3.149518,45
+101.713927,3.14969,47
+101.713721,3.149818,49
+101.713311,3.150019,54
+101.713122,3.150096,58
+101.712711,3.150225,65
+101.712389,3.15029,68
+101.712228,3.150305,69
+101.711723,3.150287,70
+101.711362,3.150251,68
+101.710993,3.150172,66
+101.710993,3.150172,66
+101.710873,3.15015,66
+101.710742,3.150253,66
+101.71064,3.150394,69
+101.710469,3.150813,82
+101.710432,3.15095,86
+101.710432,3.15095,86
+101.710234,3.15159,88
+101.710058,3.151955,78
+101.709815,3.152323,70
+101.709316,3.152872,67
+101.709129,3.153007,70
+101.708805,3.153173,71
+101.708401,3.153342,70
+101.708246,3.153434,71
+101.708058,3.153574,75
+101.708058,3.153574,75
+101.707681,3.153897,84
+101.706964,3.154572,85
+101.706499,3.1549,97
+101.706299,3.154966,96
+101.705917,3.155062,89
+101.705598,3.15519,75
+101.705411,3.155317,66
+101.705204,3.155531,56
+101.705044,3.155786,50
+101.704788,3.156373,45
+101.704809,3.156376,45
+101.704809,3.156376,45
+101.704788,3.156373,45
+101.704742,3.156479,44
+101.704742,3.156479,44
+101.704737,3.15649,43
+101.704923,3.156529,43
+101.705078,3.156595,42
+101.705078,3.156595,42
+101.705301,3.156691,38
+101.706202,3.157159,38
+101.706371,3.157276,41
+101.70676,3.157511,44
+101.7084239,3.1584286,42
+101.708424,3.15843,42
+101.709081,3.158791,73
+101.709849,3.159132,63
+101.710296,3.159303,54
+101.710296,3.159303,54
+101.710365,3.159326,53
+101.710382,3.159434,54
+101.710599,3.159467,51
+101.710599,3.159467,51
+101.710798,3.159484,48
+101.711568,3.159383,60
+101.711935,3.1593,58
+101.713115,3.158991,55
+101.713322,3.158963,56
+101.713651,3.158977,62
+101.713904,3.159036,69
+101.71413,3.159108,75
+101.714562,3.159331,65
+101.71505,3.159714,55
+101.715572,3.160049,47
+101.716069,3.16029,46
+101.71655,3.160462,50
+101.717197,3.160528,53
+101.717504,3.160492,55
+101.718344,3.160307,49
+101.718344,3.160307,49
+101.718938,3.160216,46
+101.71949,3.160185,45
+101.719859,3.160226,46
+101.720255,3.160327,46
+101.72071,3.160363,45
+101.721887,3.160344,41
+101.722754,3.160347,43
+101.722852,3.160308,43
+101.723076,3.160296,44
+101.724185,3.16031,47
+101.7244875,3.1602929,47
+101.725505,3.160204,47
+101.725505,3.160204,47
+101.726565,3.160098,43
+101.726702,3.160089,42
+101.727087,3.160105,44
+101.727598,3.160232,48
+101.72842,3.160506,58
+101.729379,3.160591,49
+101.729451,3.160585,49
+101.729576,3.160546,48
+101.729645,3.160501,48
+101.729692,3.160524,48
+101.729762,3.160529,47
+101.729813,3.160509,47
+101.729862,3.160554,46
+101.730005,3.16061,45
+101.730069,3.160658,45
+101.730777,3.160644,46
+101.733325,3.160519,47
+101.733719,3.160535,48
+101.734505,3.16053,47
+101.735021,3.160567,44
+101.735208,3.160639,44
+101.735346,3.16071,43
+101.735436,3.160786,43
+101.735436,3.160786,43
+101.735505,3.160895,44
+101.735524,3.161037,44
+101.735233,3.161877,42
+101.735161,3.162218,41
+101.734976,3.162784,39
+101.734939,3.16301,39
+101.734931,3.163275,38
+101.734931,3.163275,38
+101.734925,3.163813,42
+101.734916,3.163896,42
+101.734916,3.163896,42
+101.734872,3.164161,44
+101.734803,3.164239,43
+101.734803,3.164239,43
+101.734786,3.164258,43
+101.73467,3.164304,42
+101.734603,3.16431,42
+101.734154,3.164251,39
+101.733731,3.16424,38
+101.73334,3.164261,38
+101.73334,3.164261,38
+101.732834,3.164344,38
+101.731861,3.164568,41
+101.730966,3.164641,38
+101.729716,3.164662,36
+101.728719,3.164539,39
+101.727795,3.164394,40
+101.727622,3.164348,40
+101.727622,3.164348,40
+101.726208,3.163977,38
+101.725926,3.163933,38
+101.725564,3.163907,37
+101.725198,3.163914,37
+101.724745,3.163957,37
+101.724322,3.164029,37
+101.723723,3.164202,36
+101.722825,3.164531,38
+101.721363,3.165242,40
+101.72021,3.165689,37
+101.719927,3.165763,36
+101.719602,3.165827,35
+101.719273,3.165859,34
+101.718629,3.165892,35
+101.718023,3.165906,36
+101.717732,3.165881,36
+101.717299,3.165805,36
+101.717005,3.165736,36
+101.716445,3.165549,35
+101.716153,3.165423,33
+101.715737,3.165215,30
+101.714828,3.164831,32
+101.714828,3.164831,32
+101.713806,3.164297,32
+101.713156,3.163851,33
+101.711915,3.162871,40
+101.710186,3.161739,50
+101.709751,3.161474,40
+101.709309,3.161238,34
+101.708877,3.161054,35
+101.708877,3.161054,35
+101.708545,3.160943,39
+101.70824,3.160866,43
+101.707771,3.160778,45
+101.706038,3.160559,41
+101.705546,3.160422,39
+101.70512,3.160248,36
+101.704988,3.160122,34
+101.704745,3.159965,32
+101.704523,3.159801,31
+101.70417,3.159467,30
+101.703864,3.15908,32
+101.703541,3.158713,35
+101.703373,3.158548,37
+101.703373,3.158548,37
+101.70325,3.158514,36
+101.70314,3.158532,35
+101.703106,3.158553,35
+101.702992,3.158681,33
+101.702977,3.158762,33
+101.702989,3.158815,33
+101.70305,3.158915,34
+101.70305,3.158915,34
+101.703105,3.159006,34
+101.7030492,3.1589793,34
+101.70295,3.1588749,33
+101.7028642,3.1587811,32
+101.7027864,3.1587115,32
+101.7027006,3.1586847,31
+101.7026094,3.1586874,30
+101.7024967,3.1587061,29
+101.7023385,3.1587356,31
+101.702207,3.1587222,32
+101.7021534,3.1587115,32
+101.702146,3.158695,32
+101.701294,3.158949,43
+101.701294,3.158949,43
+101.700916,3.159064,51
+101.700507,3.159152,53
+101.699951,3.159217,51
+101.699951,3.159217,51
+101.698906,3.159317,45
+101.698906,3.159316,45
+101.69813,3.159401,40
+101.69757,3.159605,44
+101.697347,3.159713,44
+101.697156,3.159832,42
+101.695568,3.160882,62
+101.695568,3.160882,62
+101.695535,3.160904,61
+101.695476,3.160785,58
+101.694685,3.161295,49
+101.694516,3.161399,48
+101.694295,3.161501,45
+101.694148,3.161552,43
+101.693707,3.161705,42
+101.693707,3.161705,42
+101.693074,3.161925,39
+101.692968,3.161949,38
+101.692869,3.161946,38
+101.692748,3.161903,37
+101.692602,3.161785,37
+101.692524,3.16163,38
+101.692524,3.16163,38
+101.692506,3.161576,38
+101.69253,3.161287,42
+101.692751,3.16037,44
+101.692941,3.159908,40
+101.692941,3.159908,40
+101.693245,3.159219,32
+101.693418,3.158756,36
+101.693418,3.158756,36
+101.693589,3.158252,41
+101.694056,3.156993,41
+101.6941,3.156822,39
+101.694131,3.156584,36
+101.694138,3.156258,35
+101.694138,3.156258,35
+101.694121,3.155862,33
+101.694095,3.155648,34
+101.693825,3.154706,41
+101.693637,3.154127,45
+101.69349,3.153749,47
+101.693433,3.153561,48
+101.693119,3.152105,35
+101.693017,3.151535,34
+101.692835,3.150683,36
+101.692835,3.150683,36
+101.69259,3.149386,34
+101.692374,3.148381,37
+101.692329,3.147865,40
+101.692383,3.147427,39
+101.692534,3.146916,41
+101.692732,3.146508,43
+101.693055,3.146071,44
+101.693055,3.146071,44
+101.693242,3.145786,45
+101.693417,3.145336,43
+101.693443,3.145208,42
+101.693454,3.144882,42
+101.693431,3.144738,43
+101.693347,3.14441,47
+101.693274,3.144192,48
+101.69323,3.143973,46
+101.693144,3.143749,44
+101.693144,3.143749,44
+101.69323,3.143973,46
+101.69326,3.144032,47
+101.69326,3.144032,47
+101.693353,3.144209,48
+101.693491,3.144654,44
+101.693491,3.144654,44
+101.69354,3.144852,42
+101.693834,3.146376,40
+101.693834,3.146377,40
+101.693981,3.147221,36
+101.693889,3.147264,35
+101.694031,3.147967,34
+101.694031,3.147967,34
+101.69412,3.148408,34
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>START</name>
+<styleUrl>#StartIconStyle</styleUrl>
+<Point>
+<coordinates>101.69413,3.148457,34</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Start on J]]></name>
+<description><![CDATA[Start on Jalan Raja, 2]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.69413,3.148457,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep right]]></name>
+<description><![CDATA[Keep right onto Jalan Raja Laut, 2]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.696445,3.168222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Sultan Azlan Shah, 2]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.696767,3.168733,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left ]]></name>
+<description><![CDATA[Keep left onto Jalan Sultan Azlan Shah, 2]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.697601,3.167882,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Raja Abdullah]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.702953,3.167934,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Sultan Ismail]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.701723,3.158686,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left]]></name>
+<description><![CDATA[Keep left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.697212,3.159637,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn left ]]></name>
+<description><![CDATA[Turn left onto Jalan Dang Wangi]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.695931,3.156802,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left ]]></name>
+<description><![CDATA[Keep left onto Jalan Ampang]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.701346,3.155381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Sultan Ismail]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.704581,3.15657,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.706443,3.15478,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Sultan Ismail]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.706443,3.15478,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn left]]></name>
+<description><![CDATA[Turn left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.711208,3.146693,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left ]]></name>
+<description><![CDATA[Keep left onto Jalan Bukit Bintang]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.711244,3.146691,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left ]]></name>
+<description><![CDATA[Keep left onto Jalan Raja Chulan]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.715268,3.148226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep right]]></name>
+<description><![CDATA[Keep right onto Jalan Raja Chulan]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.711362,3.150251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep right]]></name>
+<description><![CDATA[Keep right onto Jalan Sultan Ismail]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.710873,3.15015,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn sharp]]></name>
+<description><![CDATA[Turn sharp right]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.704788,3.156373,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Sultan Ismail]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.704788,3.156373,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Ampang]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.704737,3.15649,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn left]]></name>
+<description><![CDATA[Turn left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.710365,3.159326,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Ampang]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.710382,3.159434,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn left]]></name>
+<description><![CDATA[Turn left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.729645,3.160501,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn left]]></name>
+<description><![CDATA[Turn left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.729813,3.160509,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left ]]></name>
+<description><![CDATA[Keep left onto Jalan Ampang]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.733325,3.160519,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left]]></name>
+<description><![CDATA[Keep left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.735021,3.160567,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn sligh]]></name>
+<description><![CDATA[Turn slight left onto Jalan Jelatek]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.735524,3.161037,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left]]></name>
+<description><![CDATA[Keep left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.734925,3.163813,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep left]]></name>
+<description><![CDATA[Keep left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.70512,3.160248,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep right]]></name>
+<description><![CDATA[Keep right]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.703541,3.158713,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn left]]></name>
+<description><![CDATA[Turn left]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.695535,3.160904,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Sultan Ismail]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.695476,3.160785,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep right]]></name>
+<description><![CDATA[Keep right]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.694148,3.161552,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Keep right]]></name>
+<description><![CDATA[Keep right onto Jalan Sultan Hishamuddin, 2]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.69323,3.143973,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn left ]]></name>
+<description><![CDATA[Turn left onto Leboh Pasar Besar]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.693981,3.147221,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Turn right]]></name>
+<description><![CDATA[Turn right onto Jalan Raja, 2]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.693889,3.147264,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[FINISH]]></name>
+<description><![CDATA[FINISH]]></description>
+<styleUrl>#WaypointIconStyle</styleUrl>
+<Point>
+<coordinates>101.69412,3.148408,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[FINISH]]></name>
+<styleUrl>#FinishIconStyle</styleUrl>
+<Point>
+<coordinates>101.69412,3.148408,34</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[1 mile]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.69581767971209,3.162655030195762,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[2 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.70293787272678,3.16651805458447,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[3 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.69619099122168,3.1583723067346176,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[4 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.70699852051255,3.1544097152477834,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[5 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.71543813009923,3.148592906294576,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[6 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.70486517885759,3.1565168762120774,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[7 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.7180912107577,3.16036267382122,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[8 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.73238232706816,3.160565245728603,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[9 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.72713677192267,3.164220687682683,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[10 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.71345687235298,3.1640574447222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[11 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.70141740135118,3.1589122113342753,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[12 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.69395397025123,3.157268065211379,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[13 miles]]></name>
+<styleUrl>#DistMarkerStyle</styleUrl>
+<Point>
+<coordinates>101.69329676982163,3.14410198127344,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<ScreenOverlay>
+<name><![CDATA[plotaroute.com]]></name>
+<visibility>1</visibility>
+<open>1</open>
+<Icon>
+<href>https://www.plotaroute.com/images/logo34reversev3.png</href>
+</Icon>
+<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<screenXY x="0.01" y="0.94" xunits="fraction" yunits="fraction"/>
+<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+<Snippet><![CDATA[This route was downloaded from <a href="https://www.plotaroute.com">plotaroute.com</a>]]></Snippet>
+</Document>
+</kml>
